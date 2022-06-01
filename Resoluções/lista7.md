@@ -8,11 +8,7 @@
 
 	Como $(1,2,4)$, não é paralelo a $(1, 1, 1)$, a primeira condição está satisfeita.
 
-	Como $\begin{vmatrix}
-	1 & 2 & 4 \\
-	1 & 1 & 1 \\
-	1 & 0 & -2
-	\end{vmatrix} = 0$, a segunda condição é satisfeita e, portanto, as trajetórias são concorrentes.
+	Como $\begin{vmatrix} 1 & 2 & 4 \\ 1 & 1 & 1 \\ 1 & 0 & -2 \end{vmatrix} = 0$, a segunda condição é satisfeita e, portanto, as trajetórias são concorrentes.
 
 	Para determinar se há colisão, deve-se encontrar um ponto que satisfaça o as duas equações com o mesmo coeficiente linear $\lambda$.
 
