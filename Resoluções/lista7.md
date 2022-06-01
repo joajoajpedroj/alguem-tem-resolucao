@@ -31,7 +31,7 @@
 
 		Já que um vetor diretor de $s$ é $(2, 1, -1)$.
 
-3.  
+3. :
 	1. Resposta:
 		$\pi_1: x + y + z + 1 = 0$
 		$\pi_2: x - y - z = 0$
