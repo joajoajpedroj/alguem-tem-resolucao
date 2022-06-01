@@ -12,18 +12,6 @@
 
 	Para determinar se há colisão, deve-se encontrar um ponto que satisfaça o as duas equações com o mesmo coeficiente linear $\lambda$.
 
-	Tem-se que $r: \begin{cases}
-	x = \lambda \\\
-	y = 2\lambda \\\
-	z = 4\lambda \\\
-	\end{cases}$ e $s: \begin{cases}
-	x = 1 + \lambda \\\
-	y = \lambda \\\
-	z = -2 + \lambda \\\
-	\end{cases}, \lambda \in \real$. Portanto, o ponto de colisão teria que satisfazer o sistema $\begin{cases}
-	\lambda = 1 + \lambda \\\
-	2\lambda = \lambda \\\
-	4\lambda = -2 + \lambda
-	\end{cases}$, que é impossível. Portanto, não há colisão
+	Tem-se que $r: \begin{cases} x = \lambda \\\ y = 2\lambda \\\ z = 4\lambda \end{cases}$ e $s: \begin{cases} x = 1 + \lambda \\\ y = \lambda \\\ z = -2 + \lambda \end{cases}, \lambda \in \real$. Portanto, o ponto de colisão teria que satisfazer o sistema $\begin{cases} \lambda = 1 + \lambda \\\ 2\lambda = \lambda \\\ 4\lambda = -2 + \lambda \end{cases}$, que é impossível. Portanto, não há colisão
 
 2. 
