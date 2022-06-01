@@ -32,7 +32,7 @@
 		Já que um vetor diretor de $s$ é $(2, 1, -1)$.
 
 3. 
-    1. Resposta:
+	1. Resposta:
 		* $\pi_1: x + y + z + 1 = 0$
 		* $\pi_2: x - y - z = 0$
 		* $\pi_3: x + 2y - z - 2 = 0$
