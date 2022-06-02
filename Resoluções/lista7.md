@@ -59,3 +59,12 @@
 	$s: x= \frac{y}{m} = z \Rightarrow s: \begin{cases} x=\lambda \\\ y = m\lambda \\\ z=\lambda \end{cases}, \lambda \in \mathbb{R} \Rightarrow s: X=\overbrace{(0,0,0)}^B + \lambda \overbrace{(1, m, 1)}^{\vec{v}}, \lambda \in \mathbb{R}$
 
 	$t: -x+z = y = -z-1 \Rightarrow t:\begin{cases} -x + z = y \\\ -z -1 = y \end{cases}$ somando as duas equações tem-se $t: \begin{cases} -x - 1 = 2y \\\ -z -1 = y \end{cases} \Rightarrow t:\begin{cases} -x - 1 = 2\lambda \\\ y = \lambda \\\ -z -1 = \lambda \end{cases} \Rightarrow t: \begin{cases} x = -1 -2\lambda \\\ y = \lambda \\\ z= -1 -\lambda \end{cases} \Rightarrow t: X=\overbrace{(-1,0,-1)}^C + \lambda \overbrace{(-2, 1, -1)}^{\vec{w}}, \lambda \in \mathbb{R}$
+
+   1. Resposta: $m = 1$
+
+	 	$r \parallel s \iff \vec{u} \parallel \vec{v} \iff (m,1,1) = k(1,m,1) \Rightarrow k = 1, m = 1$
+
+		 Como $B$ não satisfaz a equação de $r$, as retas não são coincidentes e o valor de $m$ é válido.
+	2. Resposta: $m = 0$ ou $m = 1$.
+		
+		$r$, $s$ e $t$ paralelas a um mesmo plano $\iff \vec{u},\vec{v},\vec{w}\: LD \iff \begin{vmatrix} m & 1 & 1 \\\ 1 & m & 1 \\\ -1 & 0 & -1 \end{vmatrix} = 0 \Rightarrow -m^2 + m= 0 \Rightarrow m_1 = 0, m_2 = 1$
