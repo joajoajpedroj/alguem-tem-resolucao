@@ -52,3 +52,10 @@
 		Então, na primeira equação $-\frac{1}{2} + \frac{2}{3} + z + 1 = 0 \therefore z = -\frac{7}{6}$
 
 		Uma vez que os valores encontrados para as três incognitas satisfazem as três equações, é correto afirmar que o sistema é possível e determinado. Portanto, tem apenas um ponto como intersecção entre os três planos.
+4. Para a resolução de todos os itens é recomendável encontrar a equação vetorial de todas as retas.
+	
+	$r:\begin{cases} x = my - 1 \\\ z = y - 1 \end{cases} \Rightarrow r:\begin{cases} x = -1 + m\lambda \\\ y = \lambda \\\ z = -1 + \lambda\end{cases}, \lambda \in \mathbb{R} \Rightarrow r:  X=\overbrace{(-1,0,-1)}^A + \lambda \overbrace{(m, 1, 1)}^{\vec{u}}, \lambda \in \mathbb{R}$
+
+	$s: x= \frac{y}{m} = z \Rightarrow s: \begin{cases} x=\lambda \\\ y = m\lambda \\\ z=\lambda \end{cases}, \lambda \in \mathbb{R} \Rightarrow s: X=\overbrace{(0,0,0)}^B + \lambda \overbrace{(1, m, 1)}^{\vec{v}}, \lambda \in \mathbb{R}$
+
+	$t: -x+z = y = -z-1 \Rightarrow t:\begin{cases} -x + z = y \\\ -z -1 = y \end{cases}$ somando as duas equações tem-se $t: \begin{cases} -x - 1 = 2y \\\ -z -1 = y \end{cases} \Rightarrow t:\begin{cases} -x - 1 = 2\lambda \\\ y = \lambda \\\ -z -1 = \lambda \end{cases} \Rightarrow t: \begin{cases} x = -1 -2\lambda \\\ y = \lambda \\\ z= -1 -\lambda \end{cases} \Rightarrow t: X=\overbrace{(-1,0,-1)}^C + \lambda \overbrace{(-2, 1, -1)}^{\vec{w}}, \lambda \in \mathbb{R}$
