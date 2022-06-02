@@ -67,4 +67,4 @@
 		 Como $B$ não satisfaz a equação de $r$, as retas não são coincidentes e o valor de $m$ é válido.
 	2. Resposta: $m = 0$ ou $m = 1$.
 		
-		$r$, $s$ e $t$ paralelas a um mesmo plano $\iff \vec{u},\vec{v},\vec{w}\: LD \iff \begin{vmatrix} m & 1 & 1 \\\ 1 & m & 1 \\\ -1 & 0 & -1 \end{vmatrix} = 0 \Rightarrow -m^2 + m= 0 \Rightarrow m_1 = 0, m_2 = 1$
+		$r$, $s$ e $t$ paralelas a um mesmo plano $\iff \vec{u},\vec{v},\vec{w}$ LD $\iff \begin{vmatrix} m & 1 & 1 \\\ 1 & m & 1 \\\ -1 & 0 & -1 \end{vmatrix} = 0 \Rightarrow -m^2 + m= 0 \Rightarrow m_1 = 0, m_2 = 1$
