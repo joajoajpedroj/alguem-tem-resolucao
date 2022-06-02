@@ -1,6 +1,6 @@
 # Resolução lista 7
 
-1. As trajetórias são concorrentes. Entretanto, não há colisão
+1. Resposta: As trajetórias são concorrentes. Entretanto, não há colisão
 	
 	Considere $A = (0,0,0)$ um ponto de $r$, $\vec{u} = (1,2,4)$ um vetor diretor de $r$, $B = (1, 0, -2)$ um ponto de $s$ e $\vec{v} = (1, 1, 1)$ um vetor diretor de $s$.
 	
